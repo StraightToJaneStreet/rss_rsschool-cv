@@ -28,3 +28,12 @@ Im best beacause im better than every programmer in this cruel world. There is G
 >>+.                
 >++.                  # last line of code
 ```
+
+## __Experience__
+I worked some years ago. Srsly
+
+## __Education__
+* __University:__ Belarussion State University
+
+## __English__
+__F#__
