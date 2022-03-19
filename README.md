@@ -1,1 +1,1 @@
-https://StraightToJaneStreet.github.io/rsschool-cv/cv
+https://StraightToJaneStreet.github.io/rsschool-cv
